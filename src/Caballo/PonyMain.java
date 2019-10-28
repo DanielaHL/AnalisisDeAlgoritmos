@@ -12,7 +12,7 @@ package Caballo;
 public class PonyMain {
      public static void main(String[] args) {
 
-            PonySalvaje miPony = new PonySalvaje(1,1);
+            PonySalvaje miPony = new PonySalvaje(4,2);
             miPony.saltar();
             miPony.imprimirTablero();  
     }

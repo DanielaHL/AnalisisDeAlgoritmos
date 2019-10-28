@@ -31,7 +31,8 @@ public class PonySalvaje {
             }
         }
         //Se anota el movimiento 1 en el tablero, que es el lugar en donde comenzo el caballo
-        tablero[x0][y0] = 1;  
+        tablero[x0][y0] = 1;
+        
     }
     
      private void saltoDelPony(int x, int y, int i) {
