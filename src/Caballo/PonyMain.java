@@ -15,5 +15,6 @@ public class PonyMain {
             PonySalvaje miPony = new PonySalvaje(1,1);
             miPony.saltar();
             miPony.imprimirTablero(); 
+            
     }
 }
