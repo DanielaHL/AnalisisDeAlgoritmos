@@ -21,7 +21,7 @@ public class Mochila {
         }
     }
     public void miMochila(int cap, int Ben[],int n, int peso[]){
-        //capacidad -> Capacidad de la mochila
+        //cap -> Capacidad de la mochila
         //Ben -> Beneficio de los articulos
         //peso -> Peso de los articulos
         //n -> cantidad de articulos dados
